@@ -1,0 +1,9 @@
+[submodule "distsystech.blockchain"]
+	path = distsystech.blockchain
+	url = https://github.com/blairmunroakusaTRUNK/distsystech.blockchain
+[submodule "distsystech.DAG"]
+	path = distsystech.DAG
+	url = https://github.com/blairmunroakusaTRUNK/distsystech.DAG
+[submodule "distsystech.plan9"]
+	path = distsystech.plan9
+	url = https://github.com/blairmunroakusaTRUNK/distsystech.plan9
